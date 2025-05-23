@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBaseApp</string>
+
+    <!-- Home -->
+    <string name="home_name">Home Screen</string>
+
+    <!-- Profile -->
+    <string name="profile_name">Profile Screen</string>
+</resources>

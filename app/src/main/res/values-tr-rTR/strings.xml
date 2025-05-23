@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidBaseApp</string>
+
+    <!-- Home -->
+    <string name="home_name">Ana Sayfa</string>
+
+    <!-- Profile -->
+    <string name="profile_name">Profil Ekranı</string>
+</resources>
